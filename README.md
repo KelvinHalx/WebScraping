@@ -23,4 +23,10 @@ cd ietf_scraper/ietf_scraper/spiders/
 scrapy genspider ietf pythonscraping.com ##the target site
 ```
 The command Created spider 'ietf' using template 'basic' in module:
-  ietf_scraper.spiders.ietf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+  ietf_scraper.spiders.ietf     
+  
+``` shell 
+
+    crapy runspider ietf.py
+
+```
