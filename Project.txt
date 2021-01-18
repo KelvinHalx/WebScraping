@@ -1,0 +1,15 @@
+Web Scrapping / Screen scraping  / Web Harvesting  /Spiders
+    A Program that request and parses any data 
+    on the web , especiall in unexpected way.
+Python Syntax & Programming
+
+    -Function
+    -Classes
+    -List Comprehesions
+    -Dictionaries
+
+The web
+    -HTML
+    -Part of Web Address
+    -How web collects & loads webpages
+
